@@ -12,7 +12,7 @@ color: #FFF;
 #sec-1{
     margin: 0 auto;
     width: 1200px;
-    background: url(./844442-beautiful-black-men-wallpaper-1920x1271-for-1080p.jpg); 
+    background: url(./844442-beautiful-black-men-wallpaper-1920x1271-for-1080p.png); 
     background-size: cover;
 background-position-x: 200px ;
 background-position-y:30px ;
@@ -153,7 +153,7 @@ text-decoration: none;
 #left{
   width: 300px;
   height: 550px;
-  background: url(./handsome-sucessful-buisnessman-is-posing-photographer-dark-background.jpg) ;
+  background: url(./handsome-sucessful-buisnessman-is-posing-photographer-dark-background.png) ;
   filter: grayscale(80%);
   background-size: cover;
     display: flex;
